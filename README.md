@@ -6,6 +6,7 @@ Audio classification, Embedded systems, Virtual Reality, Unity
 
 Open to any pull requests or collaborations
 
-![LeetCode Statistiken](sandbox:/mnt/data/leetcode_starvinci.png)
+## LeetCode Stats
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Starvinci)](https://leetcode.com/u/Starvinci/)
 
