@@ -1,5 +1,5 @@
 # Starvinci Home
-**Interests:** 
+## Interests: 
 
 Home automation, Speech synthesis, Large Language Models, Audio transcription,
 Audio classification, Embedded systems, Virtual Reality, Unity, Cyber Security
